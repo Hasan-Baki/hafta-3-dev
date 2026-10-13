@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEB DERSI</title>
+    <link rel="stylesheet" href="şablon.css">
+    <style>
+        h3 {
+            font: size 20px;
+            color: blue;
+        }
+        h4 {
+            font-size: 22px;
+            color: pink;
+        }
+        p{
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>DENEME</h1>
+    <h2 style="color: aqua; font-size:15px;">DENEME</h2>
+    <h3 style="font-size: 20px;"><b>DENEME</b></h3>
+
+    <h1 style="font-size: 20px; color: bisque;">BAŞLIK</h1>
+    <p style="font-size: 8px; color: blueviolet;">BAŞLIKK</p>
+    <div>division kullanımına örnek</div>
+    <h4>BAŞLIK</h4>
+    <p>BAŞLIKK</p>
+
+    <h2>DENEME</h2>
+</body>
+</html>
